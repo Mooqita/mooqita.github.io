@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mooqita</title>
-    <link>https://mooqita.github.io/categories/</link>
+    <link>./categories/</link>
     <description>Recent content in Categories on Mooqita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 06 Sep 2017 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="https://mooqita.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aboutmooqita</title>
-      <link>https://mooqita.github.io/categories/aboutmooqita/</link>
+      <link>./categories/aboutmooqita/</link>
       <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://mooqita.github.io/categories/aboutmooqita/</guid>
+      <guid>./categories/aboutmooqita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Howto</title>
-      <link>https://mooqita.github.io/categories/howto/</link>
+      <link>./categories/howto/</link>
       <pubDate>Fri, 01 Sep 2017 01:07:08 +0200</pubDate>
       
-      <guid>https://mooqita.github.io/categories/howto/</guid>
+      <guid>./categories/howto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reports</title>
-      <link>https://mooqita.github.io/categories/reports/</link>
+      <link>./categories/reports/</link>
       <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://mooqita.github.io/categories/reports/</guid>
+      <guid>./categories/reports/</guid>
       <description></description>
     </item>
     

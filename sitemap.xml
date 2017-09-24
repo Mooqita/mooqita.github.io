@@ -3,119 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mooqita.github.io/blog/2017/09/06/2017-09-06_firstsuccesses/</loc>
+    <loc>./blog/2017/09/06/2017-09-06_firstsuccesses/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/blog/2017/09/01/2017-09-01_valuepropositionorganizations/</loc>
+    <loc>./blog/2017/09/01/2017-09-01_valuepropositionorganizations/</loc>
     <lastmod>2017-09-01T01:07:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/about/</loc>
+    <loc>./about/</loc>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/categories/aboutmooqita/</loc>
+    <loc>./categories/aboutmooqita/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/tags/berkeley/</loc>
+    <loc>./tags/berkeley/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/blog/</loc>
+    <loc>./blog/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/categories/</loc>
+    <loc>./categories/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/tags/class/</loc>
+    <loc>./tags/class/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/contact/</loc>
+    <loc>./contact/</loc>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/tags/course/</loc>
+    <loc>./tags/course/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/categories/howto/</loc>
-    <lastmod>2017-09-01T01:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mooqita.github.io/tags/leads/</loc>
-    <lastmod>2017-09-06T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mooqita.github.io/tags/learners/</loc>
-    <lastmod>2017-09-06T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mooqita.github.io/</loc>
-    <lastmod>2017-09-06T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mooqita.github.io/tags/organizations/</loc>
+    <loc>./categories/howto/</loc>
     <lastmod>2017-09-01T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/categories/reports/</loc>
+    <loc>./tags/leads/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mooqita.github.io/tags/stats/</loc>
+    <loc>./tags/learners/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/tags/students/</loc>
+    <loc>./</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/tags/</loc>
+    <loc>./tags/organizations/</loc>
+    <lastmod>2017-09-01T01:07:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./categories/reports/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mooqita.github.io/team/</loc>
+    <loc>./research/</loc>
+  </url>
+  
+  <url>
+    <loc>./tags/stats/</loc>
+    <lastmod>2017-09-06T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/students/</loc>
+    <lastmod>2017-09-06T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/</loc>
+    <lastmod>2017-09-06T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./team/</loc>
   </url>
   
 </urlset>
