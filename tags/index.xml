@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mooqita</title>
+    <link>https://mooqita.github.io/tags/</link>
+    <description>Recent content in Tags on Mooqita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 06 Sep 2017 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://mooqita.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Berkeley</title>
+      <link>https://mooqita.github.io/tags/berkeley/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/berkeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class</title>
+      <link>https://mooqita.github.io/tags/class/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course</title>
+      <link>https://mooqita.github.io/tags/course/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leads</title>
+      <link>https://mooqita.github.io/tags/leads/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/leads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learners</title>
+      <link>https://mooqita.github.io/tags/learners/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/learners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizations</title>
+      <link>https://mooqita.github.io/tags/organizations/</link>
+      <pubDate>Fri, 01 Sep 2017 01:07:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/organizations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stats</title>
+      <link>https://mooqita.github.io/tags/stats/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://mooqita.github.io/tags/students/</link>
+      <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://mooqita.github.io/tags/students/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
