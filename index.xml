@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mooqita</title>
-    <link>./</link>
+    <link>/</link>
     <description>Recent content on Mooqita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 06 Sep 2017 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Successes</title>
-      <link>./blog/2017/09/06/2017-09-06_firstsuccesses/</link>
+      <link>/blog/2017/09/06/2017-09-06_firstsuccesses/</link>
       <pubDate>Wed, 06 Sep 2017 13:47:08 +0200</pubDate>
       
-      <guid>./blog/2017/09/06/2017-09-06_firstsuccesses/</guid>
+      <guid>/blog/2017/09/06/2017-09-06_firstsuccesses/</guid>
       <description>We are conducting our first test run with the beta system and have some preliminary results. A total of 158 Students from the BerkeleyX Ruby online course on EdX accessed our website for the experiment. From 88 (~55%) of these students started the challenge, 14 (9%) submitted a solution, and 12 (8%) solutions were correct (solved the challenge), 6 (5%) Students submitted a solution for the second challenge and were invited for the paid group assignment.</description>
     </item>
     
     <item>
       <title>Mooqita for Organizations in Detail</title>
-      <link>./blog/2017/09/01/2017-09-01_valuepropositionorganizations/</link>
+      <link>/blog/2017/09/01/2017-09-01_valuepropositionorganizations/</link>
       <pubDate>Fri, 01 Sep 2017 01:07:08 +0200</pubDate>
       
-      <guid>./blog/2017/09/01/2017-09-01_valuepropositionorganizations/</guid>
+      <guid>/blog/2017/09/01/2017-09-01_valuepropositionorganizations/</guid>
       <description>Mooqita is a platform that connects organizations, learners, and educators, creating meaningful learning experiences by solving real world work tasks. We match your organization with capable and highly motivated learners by letting them solve tasks that are crucial in your day-to-day operations. This builds up a pool of tested potential hires for you. As another result of this process you help create relevant work experience for our learners in a field of their interest.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>./about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./about/</guid>
+      <guid>/about/</guid>
       <description>Disrupting Education with Mooqita Mooqita is a platform that connects organizations, learners, and educators, creating meaningful learning experiences that solve real world work tasks. Access to education is one of the five millennium goals of the united nations. With online education this goal seems closer than ever before. Yet, connecting education at scale to income-earning opportunities, and more broadly to careers, is still a daunting challenge. In 21st century gap between content of education and requirements industry has when hiring.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>./contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./contact/</guid>
+      <guid>/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you have some kind of problem with our platform?
 Please feel free to contact us, while we are starting our operations we do not yet have a customer service center working 24&amp;frasl;7, but we will do our best to get back to you.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>./research/</link>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./research/</guid>
+      <guid>/research/</guid>
       <description>Mooqita is firmly rooted in research. Our collaborators keep on pushing the envelope of research on online learning and crowdsourcing technologies every day. </description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>./team/</link>
+      <link>/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./team/</guid>
+      <guid>/team/</guid>
       <description>Mooqita is made possible by our wonderful core team and supported by cooperators around the globe. </description>
     </item>
     
