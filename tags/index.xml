@@ -42,7 +42,7 @@
     <item>
       <title>Conference</title>
       <link>/tags/conference/</link>
-      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
+      <pubDate>Tue, 19 Jun 2018 01:07:08 +0200</pubDate>
       
       <guid>/tags/conference/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Networking</title>
       <link>/tags/networking/</link>
-      <pubDate>Sat, 30 Sep 2017 01:07:08 +0200</pubDate>
+      <pubDate>Tue, 19 Jun 2018 01:07:08 +0200</pubDate>
       
       <guid>/tags/networking/</guid>
       <description></description>
@@ -144,6 +144,15 @@
       <pubDate>Fri, 01 Sep 2017 01:07:08 +0200</pubDate>
       
       <guid>/tags/organizations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/tags/research/</link>
+      <pubDate>Tue, 19 Jun 2018 01:07:08 +0200</pubDate>
+      
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
