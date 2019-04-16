@@ -6,11 +6,21 @@
     <description>Recent content in Blogs on Mooqita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mooqita.org, content license unless otherwise noted &lt;a href=&#39;https://raw.githubusercontent.com/Mooqita/mooqita.github.io/master/LICENSE&#39; target=&#39;_blank&#39;&gt;CC-NC-BY-SA&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 19 Jun 2018 01:07:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 01:07:08 +0200</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update on Mooqita</title>
+      <link>/blog/2019/04/16/2019-04-16_mooqitaresearch/</link>
+      <pubDate>Tue, 16 Apr 2019 01:07:08 +0200</pubDate>
+      
+      <guid>/blog/2019/04/16/2019-04-16_mooqitaresearch/</guid>
+      <description>Dear friends!
+Mooqita has seen a lot of changes within the last 6 months. Mooqita.com have paused efforts to raise VC funding in favor of putting more energy in developing the platform and researching aspects of it, especially in the area of how users interact with it.
+Shoutout to our advisors Abby Kearns and Margeret Hall. With nearly twenty years in the tech world, Abby Kearns is a true veteran of the industry.</description>
+    </item>
     
     <item>
       <title>Mooqita at CHI &#39;18</title>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developments on Mooqita</title>
+    <link>/tags/developments/</link>
+    <description>Recent content in Developments on Mooqita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Apr 2019 01:07:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/developments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Update on Mooqita</title>
+      <link>/blog/2019/04/16/2019-04-16_mooqitaresearch/</link>
+      <pubDate>Tue, 16 Apr 2019 01:07:08 +0200</pubDate>
+      
+      <guid>/blog/2019/04/16/2019-04-16_mooqitaresearch/</guid>
+      <description>Dear friends!
+Mooqita has seen a lot of changes within the last 6 months. Mooqita.com have paused efforts to raise VC funding in favor of putting more energy in developing the platform and researching aspects of it, especially in the area of how users interact with it.
+Shoutout to our advisors Abby Kearns and Margeret Hall. With nearly twenty years in the tech world, Abby Kearns is a true veteran of the industry.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2019/04/16/2019-04-16_mooqitaresearch/</loc>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2018/06/19/2018-06-19_mooqitaatchi/</loc>
     <lastmod>2018-06-19T01:07:08+02:00</lastmod>
   </url>
@@ -38,7 +43,7 @@
   
   <url>
     <loc>/categories/aboutmooqita/</loc>
-    <lastmod>2018-06-19T01:07:08+02:00</lastmod>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,13 +55,13 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-06-19T01:07:08+02:00</lastmod>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2018-06-19T01:07:08+02:00</lastmod>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,6 +90,12 @@
   <url>
     <loc>/tags/course/</loc>
     <lastmod>2017-09-06T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/developments/</loc>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,13 +149,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-06-19T01:07:08+02:00</lastmod>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/networking/</loc>
-    <lastmod>2018-06-19T01:07:08+02:00</lastmod>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,13 +185,13 @@
   
   <url>
     <loc>/tags/research/</loc>
-    <lastmod>2018-06-19T01:07:08+02:00</lastmod>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/research/</loc>
-    <lastmod>2018-06-19T01:07:08+02:00</lastmod>
+    <lastmod>2019-04-16T01:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
